@@ -24,7 +24,7 @@
   - accelerate the algorithm exponentially by using numpy matrix calculation
   - Accuracy: Root Mean Error under 10
  - Duration: 2022/08 - 2022/11
- - Link: 
+ - Link: https://github.com/yixliu1/Project-Summary/tree/main/CV
   
 
 
